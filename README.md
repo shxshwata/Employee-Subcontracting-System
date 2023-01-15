@@ -1,6 +1,6 @@
 # Employee-Subcontracting-System 💪
 - School project using Python 🐍 and SQL 🥞
-# Hardware & Software Reqs 🖥
+# Hardware & Software Used 🖥
 - Processor: 1.1 GHz Dual-Core Intel Core i3 10th Gen
 - Memory: 8 GB LPDDR4X 
 - Storage: 256 GB
